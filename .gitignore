@@ -1,0 +1,24 @@
+# python and terraform gitignore
+*.pyc
+*.tfstate
+*.tfstate.backup
+*.tfstate.backup.*
+*.tfvars
+*.tfplan
+*.terraform
+*.DS_Store
+*/.terraform/*
+*/.terraform
+*.log
+*.lock
+*.history
+*.tfstate
+*.tfstate.backup
+*.tfstate.backup.*
+*.tfvars
+*.tfplan
+*.terraform
+*.DS_Store
+*/.terraform/*
+*/.terraform
+.venv
